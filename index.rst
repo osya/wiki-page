@@ -14,5 +14,6 @@ Contents:
    doc/first.rst
    doc/second.rst
    doc/dir/first_dir.rst
+   doc/dir/second_dir.rst
 
 
